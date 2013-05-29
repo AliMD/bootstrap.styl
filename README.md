@@ -24,7 +24,7 @@ Download and import `bootstrap.styl` folder in your stylus project
 
 ### TECHNOLOGY
 * [CSS](http://ali.md/css4)
-* [bootstrap](http://ali.md/bootstrap)
+* [bootstrap](http://ali.md/bootstrap.styl)
 * [Stylus](http://ali.md/stylus)
 
 ### Contributing
