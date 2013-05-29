@@ -1,0 +1,9 @@
+{
+    "name": "bootstrap.styl",
+    "version": "3.0.0",
+    "main": ["bootstrap.styl"],
+    "author": "Ali Mihandoost",
+    "description": "Bootstrap stylus edition",
+    "keywords": ["bootstrap", "bootstrap.styl","stylus"],
+    "license": "Creative Commons Attribution 3.0"
+}
